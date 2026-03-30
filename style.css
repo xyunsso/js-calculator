@@ -4,13 +4,14 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: hsl(0, 0%, 95%);
+    background-color: hsl(0, 0%, 95%); 
 }
+
 #calculator {
     font-family: Arial, sans-serif;
-    background-color: hsl(0, 0%, 15%);
+    background-color: hsl(0, 0%, 15%); 
     border-radius: 15px;
-    max-width: 400px;
+    max-width: 400px; 
     overflow: hidden;
 }
 #display {
